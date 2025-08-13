@@ -6,11 +6,11 @@ This application is created utilizing Python and leverages the [Gradio](https://
 
 ✨ Features
 
-* 🔹 Manual Input**: Quickly examine the sentiment of any text by just typing or pasting it into the intake box.
-* 📂 File Upload**: Process numerous lines of text at once by uploading a `.txt` file (with each line of text on a new line) or a `.csv` file (using the first column for text). The app supplies a summary of the outcomes in a table and visualizes the sentiment allocation with a pie chart.
-* ⚖️ Comparative Analysis**: Instantly compare the sentiments of two separate pieces of text. The results are shown with individual descriptions and a comparative bar chart.
-* 🤖 AI-Driven Explanations**: For every analysis, the app supplies a one-sentence explanation for the given sentiment, presenting deeper insight into the category.
-* 📈 Data Visualization**: Interactive charts from [Plotly](https://plotly.com/) are developed to assist in visualizing the sentiment allocation in your data.
+* 🔹 Manual Input: Quickly examine the sentiment of any text by just typing or pasting it into the intake box.
+* 📂 File Upload: Process numerous lines of text at once by uploading a `.txt` file (with each line of text on a new line) or a `.csv` file (using the first column for text). The app supplies a summary of the outcomes in a table and visualizes the sentiment allocation with a pie chart.
+* ⚖️ Comparative Analysis: Instantly compare the sentiments of two separate pieces of text. The results are shown with individual descriptions and a comparative bar chart.
+* 🤖 AI-Driven Explanations: For every analysis, the app supplies a one-sentence explanation for the given sentiment, presenting deeper insight into the category.
+* 📈 Data Visualization: Interactive charts from [Plotly](https://plotly.com/) are developed to assist in visualizing the sentiment allocation in your data.
 
 🛠️ Setup and Installation
 
