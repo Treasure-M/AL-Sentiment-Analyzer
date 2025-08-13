@@ -1,5 +1,12 @@
 🧠 AI-Powered Sentiment Analysis Web App
 
+Team members
+
+• Treasure Mashabane 
+• Thabo Mavundla 
+• Ditshego Kgwadi
+• Rebafenyi Mudau 
+
 An instinctive web application for conducting sentiment analysis on text. This tool provides a user-friendly interface to classify text as Positive, Neutral, or Negative, complete with explanations for the sentiment. It supports three major functionalities: exploring single pieces of text, processing complete files (`.txt` or `.csv`), and comparing the sentiments of two distinct texts side-by-side.
 
 This application is created utilizing Python and leverages the [Gradio](https://www.gradio.app/) framework for the user interface and the [Mistral AI](https://mistral.ai/) prototype via the [OpenRouter API](https://openrouter.ai/) for its analytical power.
