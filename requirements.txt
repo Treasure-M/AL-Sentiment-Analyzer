@@ -1,0 +1,7 @@
+gradio
+pandas
+plotly
+requests
+python-dotenv
+numpy
+python-multipart
